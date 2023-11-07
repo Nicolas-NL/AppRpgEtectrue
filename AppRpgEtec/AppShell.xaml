@@ -37,7 +37,7 @@
 
     <ShellContent
         Title="Usuários" Icon="menuusarios.svg"
-        ContentTemplate="{DataTemplate viewsUsuarios:ListagemView}"
+        ContentTemplate="{DataTemplate viewsUsuarios:LocalizacaoView}"
         Route="MainPage" />
     <ShellContent
         Title="Personagens" Icon="menupersonagens.svg"

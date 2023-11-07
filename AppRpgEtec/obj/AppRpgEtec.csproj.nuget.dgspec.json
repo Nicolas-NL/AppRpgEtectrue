@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nicolas\\Downloads\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj": {}
+    "C:\\Users\\Nicolas\\source\\repos\\AppRpgEtec2\\AppRpgEtec\\AppRpgEtec.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nicolas\\Downloads\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj": {
+    "C:\\Users\\Nicolas\\source\\repos\\AppRpgEtec2\\AppRpgEtec\\AppRpgEtec.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nicolas\\Downloads\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
+        "projectUniqueName": "C:\\Users\\Nicolas\\source\\repos\\AppRpgEtec2\\AppRpgEtec\\AppRpgEtec.csproj",
         "projectName": "AppRpgEtec",
-        "projectPath": "C:\\Users\\Nicolas\\Downloads\\AppRpgEtec\\AppRpgEtec\\AppRpgEtec.csproj",
+        "projectPath": "C:\\Users\\Nicolas\\source\\repos\\AppRpgEtec2\\AppRpgEtec\\AppRpgEtec.csproj",
         "packagesPath": "C:\\Users\\Nicolas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nicolas\\Downloads\\AppRpgEtec\\AppRpgEtec\\obj\\",
+        "outputPath": "C:\\Users\\Nicolas\\source\\repos\\AppRpgEtec2\\AppRpgEtec\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -84,6 +84,10 @@
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Microsoft.Maui.Controls.Maps": {
+              "target": "Package",
+              "version": "[7.0.100, )"
             },
             "Microsoft.Maui.Graphics": {
               "target": "Package",
@@ -207,6 +211,10 @@
               "target": "Package",
               "version": "[7.0.0, )"
             },
+            "Microsoft.Maui.Controls.Maps": {
+              "target": "Package",
+              "version": "[7.0.100, )"
+            },
             "Microsoft.Maui.Graphics": {
               "target": "Package",
               "version": "[7.0.52, )",
@@ -273,6 +281,10 @@
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Microsoft.Maui.Controls.Maps": {
+              "target": "Package",
+              "version": "[7.0.100, )"
             },
             "Microsoft.Maui.Graphics": {
               "target": "Package",
@@ -341,6 +353,10 @@
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Microsoft.Maui.Controls.Maps": {
+              "target": "Package",
+              "version": "[7.0.100, )"
             },
             "Microsoft.Maui.Graphics": {
               "target": "Package",
